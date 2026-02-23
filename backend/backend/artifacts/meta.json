@@ -1,0 +1,16 @@
+{
+  "model_type": "sklearn_hgbr",
+  "mae": 8501.071288179977,
+  "cat_cols": [
+    "make",
+    "model",
+    "trim",
+    "state"
+  ],
+  "num_cols": [
+    "year",
+    "mileage",
+    "lat",
+    "lon"
+  ]
+}
